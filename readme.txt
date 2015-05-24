@@ -1,35 +1,35 @@
 ***********************************************************************
 *                                                                     *
-*                 ²Õ»y Final Hw - SIC/XE Assembler                    *
+*                       SIC/XE Assembler                              *
 *                                                                     *
-*                      7102056032 ÃC¦Ü¼e                              *
+*                           Simon Yen                                 *
 *                                                                     *
 *                          version.3                                  *
 *                                                                     *
 ***********************************************************************
 
-¤ä´©¥\¯à : 
+æ”¯æ´åŠŸèƒ½ : 
 1. 2-PASS Assembler
-2. SIC/XE ¥ş«ü¥O support
+2. SIC/XE å…¨æŒ‡ä»¤ support
 3. Support Relocation
 
-°õ¦æÀô¹Ò : 
-windows XP ¥H¤W
+åŸ·è¡Œç’°å¢ƒ : 
+windows XP ä»¥ä¸Š
 
-Assemblerµ{¦¡½sÄ¶Àô¹Ò :
+Assemblerç¨‹å¼ç·¨è­¯ç’°å¢ƒ :
 windows/Dev C++ 5.6.3/C
 
-¨Ï¥Î¤èªk : 
-±Nassembler_v3.exe ©ñ¸m©ósource code¦P­Ó¸ê®Æ§¨¤¤°õ¦æ¡A
-²£¥Í¥XSIC/XE ªºexcutable file.
+ä½¿ç”¨æ–¹æ³• : 
+å°‡assembler_v3.exe æ”¾ç½®æ–¼source codeåŒå€‹è³‡æ–™å¤¾ä¸­åŸ·è¡Œï¼Œ
+ç”¢ç”Ÿå‡ºSIC/XE çš„excutable file.
 
-ª`·N¨Æ¶µ : 
-1. source code »İ©R¦W¬° source_code.txt¡C
-2. ²£¥Í¥Xªºexecutable fileªºÀÉ¦W¬° object_file.txt (¬°¤F¤è«Kdemo©Mdebug)
-3. ­Y­n¦Û¦æcompile¡A»İ­nlink¦Üoperations.h³o­ÓheaderÀÉ
-4. ¤º³¡´£¨Ñ¨â­Ódebug function¡Aprint_SYMTAB(¦L¥XSymbol)¡Bprint_Status(¦L¥Xinstruction­ÓÄæ¦ì¤§ª¬ºA)
+æ³¨æ„äº‹é … : 
+1. source code éœ€å‘½åç‚º source_code.txtã€‚
+2. ç”¢ç”Ÿå‡ºçš„executable fileçš„æª”åç‚º object_file.txt (ç‚ºäº†æ–¹ä¾¿demoå’Œdebug)
+3. è‹¥è¦è‡ªè¡Œcompileï¼Œéœ€è¦linkè‡³operations.hé€™å€‹headeræª”
+4. å…§éƒ¨æä¾›å…©å€‹debug functionï¼Œprint_SYMTAB(å°å‡ºSymbol)ã€print_Status(å°å‡ºinstructionå€‹æ¬„ä½ä¹‹ç‹€æ…‹)
 
-¹w­p¤U­Óª©¥»¼W¥[ :
-1. Åª¨úÀÉ®×Àu¤Æ
+é è¨ˆä¸‹å€‹ç‰ˆæœ¬å¢åŠ  :
+1. è®€å–æª”æ¡ˆå„ªåŒ–
 
 
